@@ -1,5 +1,6 @@
 National Institute of Technology,Silchar
-         DSA assignment 1
+
+          DSA assignment 1
  
           Submitted by:
           Nirmalendu Sarma 
